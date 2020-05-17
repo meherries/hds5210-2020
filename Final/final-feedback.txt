@@ -1,0 +1,19 @@
+PART 1:
+Nice work
+
+PART 2:
+Excellent
+
+PART 3:
+Great work
+As you noted, the fact that I took a snapshot of data into the database meant that the IDs got out of sync.  The data stopped being aligned to the right counties.
+
+PART 4:
+Nice work
+
+PART 5:
+Great
+
+PART 6:
+Good observations -- and your point about the data.
+
